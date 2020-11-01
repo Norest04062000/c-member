@@ -1,0 +1,62 @@
+1  biology 1 Botany is the study of?
+Plants
+Animals
+2 physic 2  Electric resistance is typically measured in what units?
+Amper
+Ohms
+3 math 2  What is the next prime number after 7?
+9
+11
+4 planet 1  What is the smallest planet in the Solar System?
+Mercury
+Earth
+5 geometry 2  The distance from the center of a circle to its edge is called what?
+diamter
+radius
+6 biology 1  True or false? The common cold is caused by a virus.
+False
+True
+7 physic 1  True or false? Iron is attracted by magnets.
+True
+False
+8 math 2  7 x 9 = ?
+56
+63
+9 planet 1  What is the third planet from the Sun?
+Earth
+Mars
+10 geometry 1  How many sides does a hexagon have?
+6
+8
+11 biology 2  A change of the DNA in an organism that results in a new trait is known as a?
+Photosynthesis
+Mutation
+12 physic 1  Electric current is typically measured in what units?
+Amper
+Volt
+13 math 2  What does the square root of 144 equal?
+11
+12
+14 planet 2  What planet is closest in size to Earth?
+Pluton
+Venus
+15 geometry 1   How many sides of equal length does a square have?
+4
+5
+16 biology 2  What is the name of the process used by plants to convert sunlight into food?
+Reproduction
+Photosynthesis
+17 physic 2  Electric power is typically measured in what units?
+Jaul
+Watts
+18 math 1  What does 3 squared equal?
+9
+27
+19 planet 1  What is the largest planet in the Solar System?
+Jupiter
+Mars
+20 math 2  The perimeter of a circle is also known as what?
+Surface
+Circumference
+
+
